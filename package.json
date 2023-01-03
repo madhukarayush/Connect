@@ -37,11 +37,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pushpendrakr/Connect.git"
+    "url": "git+https://github.com/madhukarayush/connect.git"
   },
   "bugs": {
-    "url": "https://github.com/pushpendrakr/Connect/issues"
+    "url": "https://github.com/madhukarayush/connect/issues"
   },
-  "homepage": "https://github.com/pushpendrakr/Connect#readme",
+  "homepage": "https://github.com/madhukarayush/connect#readme",
   "description": ""
 }
