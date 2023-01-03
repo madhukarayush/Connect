@@ -2,7 +2,7 @@ const express=require('express')
 var app=express();
 const mongoose = require("mongoose");
 const {MONGOURI} = require("./prod/keys");
-mongoose.connect(MONGOURI,{useNewUrlParser:true , useUnifiedTopology: true , useFindAndModify: false});
+mongoose.connect(key.MONGOURI,{useNewUrlParser:true , useUnifiedTopology: true , useFindAndModify: false});
 mongoose.connection.on('connected',()=>{
     console.log("connected ;)");
 })
